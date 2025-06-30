@@ -1,6 +1,6 @@
 # Local Respository: 
 <p>
-<h1> Steps for Repository:</h1><br>
+<h1> Steps:</h1><br>
     1. mkdir: make new folder<br>
     2. Add new repo to github: git init<br>
     3. Check status: git status<br>
